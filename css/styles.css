@@ -1,3 +1,7 @@
 .hide-em {
-  display: none;
+  display: non
+}
+
+.bg-dark {
+  color: white;
 }
